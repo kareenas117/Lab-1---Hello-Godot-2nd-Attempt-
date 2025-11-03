@@ -1,0 +1,55 @@
+[gd_scene load_steps=2 format=3 uid="uid://c5tvoq5n86glk"]
+
+[ext_resource type="Texture2D" uid="uid://dmolwiglyv58r" path="res://Assets/pngtree-cartoon-tree-green-tree-png-image_11640043.png" id="1_brfkd"]
+
+[node name="Tree" type="Node2D"]
+
+[node name="PngtreeCartoonTreeGreenTreePngImage11640043" type="Sprite2D" parent="."]
+position = Vector2(4046.0005, 884.50024)
+scale = Vector2(1.9444401, 1.6527758)
+texture = ExtResource("1_brfkd")
+
+[node name="PngtreeCartoonTreeGreenTreePngImage11640044" type="Sprite2D" parent="PngtreeCartoonTreeGreenTreePngImage11640043"]
+position = Vector2(-278.8405, 117.07625)
+scale = Vector2(1.0519683, 0.92100585)
+texture = ExtResource("1_brfkd")
+
+[node name="PngtreeCartoonTreeGreenTreePngImage11640045" type="Sprite2D" parent="PngtreeCartoonTreeGreenTreePngImage11640043"]
+position = Vector2(-1597.3752, -231.42902)
+scale = Vector2(0.5825384, 0.4610931)
+texture = ExtResource("1_brfkd")
+
+[node name="PngtreeCartoonTreeGreenTreePngImage11640044" type="Sprite2D" parent="PngtreeCartoonTreeGreenTreePngImage11640043/PngtreeCartoonTreeGreenTreePngImage11640045"]
+position = Vector2(2116.162, 49.86334)
+scale = Vector2(1.0945021, 1.1960814)
+texture = ExtResource("1_brfkd")
+
+[node name="PngtreeCartoonTreeGreenTreePngImage11640044" type="Sprite2D" parent="PngtreeCartoonTreeGreenTreePngImage11640043/PngtreeCartoonTreeGreenTreePngImage11640045/PngtreeCartoonTreeGreenTreePngImage11640044"]
+position = Vector2(647.7089, -156.88185)
+scale = Vector2(1.112148, 1.1402575)
+texture = ExtResource("1_brfkd")
+
+[node name="PngtreeCartoonTreeGreenTreePngImage11640044" type="Sprite2D" parent="PngtreeCartoonTreeGreenTreePngImage11640043/PngtreeCartoonTreeGreenTreePngImage11640045/PngtreeCartoonTreeGreenTreePngImage11640044/PngtreeCartoonTreeGreenTreePngImage11640044"]
+position = Vector2(-403.25235, -258.813)
+scale = Vector2(1.112148, 1.1402575)
+texture = ExtResource("1_brfkd")
+
+[node name="PngtreeCartoonTreeGreenTreePngImage11640045" type="Sprite2D" parent="PngtreeCartoonTreeGreenTreePngImage11640043/PngtreeCartoonTreeGreenTreePngImage11640045/PngtreeCartoonTreeGreenTreePngImage11640044"]
+position = Vector2(-286.3474, 310.4725)
+scale = Vector2(1.0945021, 1.1960814)
+texture = ExtResource("1_brfkd")
+
+[node name="PngtreeCartoonTreeGreenTreePngImage11640044" type="Sprite2D" parent="PngtreeCartoonTreeGreenTreePngImage11640043/PngtreeCartoonTreeGreenTreePngImage11640045/PngtreeCartoonTreeGreenTreePngImage11640044/PngtreeCartoonTreeGreenTreePngImage11640045"]
+position = Vector2(594.4513, -170.03323)
+scale = Vector2(1.112148, 1.1402575)
+texture = ExtResource("1_brfkd")
+
+[node name="PngtreeCartoonTreeGreenTreePngImage11640045" type="Sprite2D" parent="PngtreeCartoonTreeGreenTreePngImage11640043/PngtreeCartoonTreeGreenTreePngImage11640045/PngtreeCartoonTreeGreenTreePngImage11640044/PngtreeCartoonTreeGreenTreePngImage11640045"]
+position = Vector2(5.895935, 363.22125)
+scale = Vector2(1.0945021, 1.1960814)
+texture = ExtResource("1_brfkd")
+
+[node name="PngtreeCartoonTreeGreenTreePngImage11640044" type="Sprite2D" parent="PngtreeCartoonTreeGreenTreePngImage11640043/PngtreeCartoonTreeGreenTreePngImage11640045/PngtreeCartoonTreeGreenTreePngImage11640044/PngtreeCartoonTreeGreenTreePngImage11640045/PngtreeCartoonTreeGreenTreePngImage11640045"]
+position = Vector2(594.4513, -170.03323)
+scale = Vector2(1.112148, 1.1402575)
+texture = ExtResource("1_brfkd")

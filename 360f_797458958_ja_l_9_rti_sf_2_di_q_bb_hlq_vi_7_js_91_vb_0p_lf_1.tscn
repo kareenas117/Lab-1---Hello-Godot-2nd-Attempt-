@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=3 uid="uid://cgk3mg8r4fg1u"]
+
+[sub_resource type="CompressedTexture2D" id="CompressedTexture2D_fgvsk"]
+load_path = "res://.godot/imported/360_F_797458958_jaL9RTISf2diQBbHlqVI7js91vb0PLf1.jpg-095b1270c5a7019e71d4d942b369c611.ctex"
+
+[node name="360F797458958JaL9rtiSf2DiQBbHlqVi7Js91Vb0pLf1" type="Sprite2D"]
+position = Vector2(-8230, 18102)
+scale = Vector2(51.0442, 68.19998)
+texture = SubResource("CompressedTexture2D_fgvsk")
